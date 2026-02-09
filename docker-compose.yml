@@ -1,0 +1,22 @@
+services:
+  php:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: php_ai
+    volumes:
+      - ./:/livro
+    command:
+      - /bin/bash
+      - -c
+      - |
+        sleep infinity
+    restart: "no"
+
+  ollama:
+    profiles: [ "ollama" ]
+    container_name: ollama_server
+    image: ollama/ollama:0.15.5
+    volumes:
+      - ./customizar-ollama.sh:/customizar-ollama.sh
+    entrypoint: [ "/bin/bash", "/customizar-ollama.sh" ]
