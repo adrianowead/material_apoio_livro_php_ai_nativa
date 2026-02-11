@@ -1,4 +1,4 @@
-renda,divida,score,tempo_emprego,idade,classe
+renda,divida,score,tempo_emprego_meses,idade,classe
 0.1275,0.28077,0.927,0.89791666666667,0.54,bom
 0.60142,0.55421,0.478,0.65416666666667,0.58,bom
 0.55056,0.77343,0.767,0,0.18,ruim
