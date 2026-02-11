@@ -1,6 +1,6 @@
 # IA Nativa para quem domina PHP
 
-Este repositório faz parte do material de apoio do livro **"IA Nativa para quem domina PHP"**, , disponível nas versões impressa e digital:
+Este repositório faz parte do material de apoio do livro **"IA Nativa para quem domina PHP"**, disponível nas versões impressa e digital:
 
 - **ISBN (Livro Impresso):** 978-65-01-93759-5
 - **ISBN (Livro Digital):**  978-65-01-93710-6
@@ -126,4 +126,5 @@ O livro completo, com a fundamentação teórica e exemplos práticos, **já est
 
 ### Versão Física — Capa Comum
 [![Amazon Brasil](https://img.shields.io/badge/Amazon_Brasil-Capa_Comum-FF9900?style=for-the-badge&logo=amazon)](https://www.amazon.com.br/dp/6501937590)
+
 [![Clube dos Autores](https://img.shields.io/badge/Clube_dos_Autores-Capa_Comum-1E88E5?style=for-the-badge&logo=bookstack)](https://clubedeautores.com.br/livro/ia-nativa-para-quem-domina-php)
