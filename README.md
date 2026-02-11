@@ -127,4 +127,7 @@ O livro completo, com a fundamentação teórica e exemplos práticos, **já est
 ### Versão Física — Capa Comum
 [![Amazon Brasil](https://img.shields.io/badge/Amazon_Brasil-Capa_Comum-FF9900?style=for-the-badge&logo=amazon)](https://www.amazon.com.br/dp/6501937590)
 
+[![Amazon Internacional](https://img.shields.io/badge/Amazon_Internacional-Capa_Comum-FF9900?style=for-the-badge&logo=amazon)](https://www.amazon.com/dp/B0GMXNKSD8)
+
 [![Clube dos Autores](https://img.shields.io/badge/Clube_dos_Autores-Capa_Comum-1E88E5?style=for-the-badge&logo=bookstack)](https://clubedeautores.com.br/livro/ia-nativa-para-quem-domina-php)
+
